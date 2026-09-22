@@ -51,8 +51,8 @@ Default local configuration:
 
 ```text
 DB_URL=jdbc:mysql://localhost:3306/booking_db
-DB_USERNAME=root
-DB_PASSWORD=root
+DB_USERNAME=****
+DB_PASSWORD=****
 ```
 
 You can override these using environment variables.
